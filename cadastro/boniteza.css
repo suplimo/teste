@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+body {
+    background:#ffffff;
+}
+
+.etec {
+    width: 166px;
+    height: 69px;
+    flex-shrink: 0;
+    top: -50px;
+    margin-left: 100px;
+}
+   
+.logoSP {
+    margin-left: 1139px;
+
+}
+
+.container{
+    text-align: center;
+    border: 1px solid;
+}
+
+.blocologin {
+    width: 586px;
+    height: 800px;
+    margin-bottom: 50px;
+    flex-shrink: 0;
+    margin-left: 645px;
+
+}
+
+.loginn {
+    width: 350px;
+    margin-top: -500px;
+    margin-left: 800px;
+}
+
+.email {
+    color: #000;
+font-family: Inter;
+font-size: 32px;
+font-style: light;
+font-weight: 400;
+line-height: normal;
+width: 417px;
+height: 36px;
+text-align: center;
+
+
+}
+
+    .senhaa {
+        color: #000;
+        font-family: Inter;
+        font-size: 32px;
+        font-style: light;
+        font-weight: 400;
+        line-height: normal;
+        width: 417px;
+        height: 36px;
+        text-align: center;
+    }
+
+    .botao-red {
+        color: #FFFF;
+        font-family: Inter;
+        font-size: 25px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 155.023%; /* 85.263px */
+        letter-spacing: 3.025px;
+        width: 250px;
+        height: 66px;
+        flex-shrink: 0;
+        background-color: #ED1B24;
+        border-radius: 46px;
+        top: 585px;
+        left: 823px;
+    flex-shrink: 0;   }
+
+    .botao-red:hover {
+        font-size: 28px;
+        transition: color 0.5s ease-out;
+    }
+
+    .linha1 {
+        width: 1440px;
+        height: 1024px;
+        background: #971212;
+        width: 405px;
+        height: 3px;
+        position: relative;
+        z-index: 1;
+        margin-left: -65px;
+        top: -10px;
+    }
+
+.linha2 {
+    width: 1440px;
+    height: 1024px;
+    background: #971212;
+    width: 405px;
+    height: 3px;
+    position: relative;
+    z-index: 1;
+    margin-left: -65px;
+    top: -20px;
+}
+
+.chavinha {
+    margin-top: -350px;
+    margin-left: 600px;
+}
+
+
+.entrar-g:hover {
+        color: #333;
+        font-size: 33px;
+        transition: color 0.5s ease;
+        font-style: bold;
+}
+
+.volta {
+    color: #971212;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.36px;
+position: relative;
+top: -30px;
+}
